@@ -1,0 +1,16 @@
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\bin\Debug\net5.0\Midterm.exe
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\bin\Debug\net5.0\Midterm.deps.json
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\bin\Debug\net5.0\Midterm.runtimeconfig.json
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\bin\Debug\net5.0\Midterm.runtimeconfig.dev.json
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\bin\Debug\net5.0\Midterm.dll
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\bin\Debug\net5.0\Midterm.pdb
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\obj\Debug\net5.0\Midterm.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\obj\Debug\net5.0\Midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\obj\Debug\net5.0\Midterm.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\obj\Debug\net5.0\Midterm.AssemblyInfo.cs
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\obj\Debug\net5.0\Midterm.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\obj\Debug\net5.0\Midterm.dll
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\obj\Debug\net5.0\refint\Midterm.dll
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\obj\Debug\net5.0\Midterm.pdb
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\obj\Debug\net5.0\Midterm.genruntimeconfig.cache
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\Midterm\obj\Debug\net5.0\ref\Midterm.dll
