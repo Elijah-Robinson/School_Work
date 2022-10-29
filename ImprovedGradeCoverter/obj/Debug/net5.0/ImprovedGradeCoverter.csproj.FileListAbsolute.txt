@@ -1,0 +1,16 @@
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\bin\Debug\net5.0\ImprovedGradeCoverter.exe
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\bin\Debug\net5.0\ImprovedGradeCoverter.deps.json
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\bin\Debug\net5.0\ImprovedGradeCoverter.runtimeconfig.json
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\bin\Debug\net5.0\ImprovedGradeCoverter.runtimeconfig.dev.json
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\bin\Debug\net5.0\ImprovedGradeCoverter.dll
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\bin\Debug\net5.0\ImprovedGradeCoverter.pdb
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\obj\Debug\net5.0\ImprovedGradeCoverter.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\obj\Debug\net5.0\ImprovedGradeCoverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\obj\Debug\net5.0\ImprovedGradeCoverter.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\obj\Debug\net5.0\ImprovedGradeCoverter.AssemblyInfo.cs
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\obj\Debug\net5.0\ImprovedGradeCoverter.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\obj\Debug\net5.0\ImprovedGradeCoverter.dll
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\obj\Debug\net5.0\refint\ImprovedGradeCoverter.dll
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\obj\Debug\net5.0\ImprovedGradeCoverter.pdb
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\obj\Debug\net5.0\ImprovedGradeCoverter.genruntimeconfig.cache
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\ImprovedGradeCoverter\obj\Debug\net5.0\ref\ImprovedGradeCoverter.dll

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = StudentScoreReport
+build_property.ProjectDir = /Users/elijahrobinson/Library/CloudStorage/OneDrive-Personal/School Documents/College-MIZ/assignments/2022-2023/2040/StudentScoreReport/

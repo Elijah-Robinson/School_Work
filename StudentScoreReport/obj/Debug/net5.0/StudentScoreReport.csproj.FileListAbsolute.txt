@@ -1,0 +1,16 @@
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\bin\Debug\net5.0\StudentScoreReport.exe
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\bin\Debug\net5.0\StudentScoreReport.deps.json
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\bin\Debug\net5.0\StudentScoreReport.runtimeconfig.json
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\bin\Debug\net5.0\StudentScoreReport.runtimeconfig.dev.json
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\bin\Debug\net5.0\StudentScoreReport.dll
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\bin\Debug\net5.0\StudentScoreReport.pdb
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\obj\Debug\net5.0\StudentScoreReport.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\obj\Debug\net5.0\StudentScoreReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\obj\Debug\net5.0\StudentScoreReport.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\obj\Debug\net5.0\StudentScoreReport.AssemblyInfo.cs
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\obj\Debug\net5.0\StudentScoreReport.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\obj\Debug\net5.0\StudentScoreReport.dll
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\obj\Debug\net5.0\refint\StudentScoreReport.dll
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\obj\Debug\net5.0\StudentScoreReport.pdb
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\obj\Debug\net5.0\StudentScoreReport.genruntimeconfig.cache
+C:\Users\robin\OneDrive\School Documents\College-MIZ\assignments\2022-2023\2040\StudentScoreReport\obj\Debug\net5.0\ref\StudentScoreReport.dll
